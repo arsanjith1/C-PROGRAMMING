@@ -1,3 +1,0 @@
-C language is a structured language.
-I love programming
-Programming with C is very interesting
